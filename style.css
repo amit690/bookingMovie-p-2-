@@ -1,0 +1,16 @@
+body, html {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.centered {
+    text-align: center;
+}
+.main-container {
+    width: 100%;
+}
+.input-wide {
+    width: 100%;
+}
